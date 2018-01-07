@@ -13,4 +13,6 @@ public class DemoSb {
 	}
 
 	public String str_prop;
+	public String str_prop2;
+
 }
